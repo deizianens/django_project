@@ -1,1 +1,3 @@
-# django_project
+# Django Project
+
+Learning Django :)
